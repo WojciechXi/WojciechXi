@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WojciechXi
 - 👀 I’m interested in Front End, Back End, Game Dev
-- 🌱 I’m currently learning Aruino
+- 🌱 I’m currently learning Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can't reach me
 
